@@ -1,0 +1,3 @@
+# MQTT permissions
+user mosquittoclient
+topic readwrite #
